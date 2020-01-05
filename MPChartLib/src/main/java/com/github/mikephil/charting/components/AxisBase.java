@@ -314,8 +314,8 @@ public abstract class AxisBase extends ComponentBase {
      */
     public void setLabelCount(int count) {
 
-        if (count > 25)
-            count = 25;
+        //if (count > 25)
+          //  count = 25;
         if (count < 2)
             count = 2;
 
